@@ -1,13 +1,5 @@
-# Some Big Title
+# String Calculator Kata
 
-this is awesome.
+From Roy Osherove
 
-## Waht do you think?
-
-```csharp  
-var x = "Hello";
-
-Console.WriteLine(x.ToUpper());
-```
-
-Now that is some code!
+[String Calculator 1](https://osherove.com/tdd-kata-1)
